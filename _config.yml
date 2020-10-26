@@ -28,6 +28,8 @@ github_username:  hibroseph
 
 # Build settings
 theme: no-style-please
+remote_theme: no-style-please
+
 plugins:
    - jekyll-feed
    - jekyll-seo-tag
