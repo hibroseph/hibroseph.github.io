@@ -1,0 +1,35 @@
+entries:
+    - title: about
+      url: /about
+      entries: false
+
+    - title: connect
+      url: false
+      entries:
+          - title: iwillridgley@gmail.com
+            url: mailto:iwillridgley@gmail.com
+            entries: false
+          - title: github
+            url: https://github.com/hibroseph
+            entries: false
+          - title: linkedin
+            url: https://www.linkedin.com/in/mrjosephridgley/
+            entries: false
+
+    - title: posts
+      post_list: true
+      url: false
+      entries: false
+
+    - title: projects
+      url: false
+      entries:
+          - title: spotibro
+            url: /projects/spotibro
+            entries: false
+          - title: docamatic
+            url: /projects/docamatic
+            entries: false
+
+    - title: attribution
+      url: /attribution
