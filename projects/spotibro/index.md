@@ -14,6 +14,16 @@ I wanted to develop Spotibro as close as I could to any business idea. That mean
 1. Come up with the business rules and how the app will operate
 2. Whiteboard the basic functionality
 3. Design the user flow
-4. Start coding
+4. Code up the MVP
+5. Listen to user feedback and iterate
 
+**What I hope to learn**
+While working at LabStats, I realized that I need to keep building during my career for many reasons. I also wanted to get expierence with as many technologies as possible so that I could put them in my programming toolbox.
+
+I did want to learn specifically about:
+- Caching techniques and technologies (most likely redis)
+- Monitoring of production applications
+- Operations side of development
+- Different programming paradigms (functional programming)
+- How to manage tasks/prioritze tasks to lead to biggest customer impact
 
